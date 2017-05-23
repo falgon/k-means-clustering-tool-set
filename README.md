@@ -47,7 +47,7 @@ And build
 g++ -std=c++1z -Wall -Wextra -pedantic k_means.cpp -o k_means.out
 ./k_means.out
 ```
-To output:
+output
 ![clustering data](sample/output/clustering_data.png)
 
 ## How to use

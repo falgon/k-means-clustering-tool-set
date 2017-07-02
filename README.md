@@ -2,6 +2,8 @@
 
 The simple k-means clustering tool set.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae48c146f92e4fb088116091727440ad)](https://www.codacy.com/app/falgon/jpezy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=falgon/jpezy&amp;utm_campaign=Badge_Grade)
+
 ## Requirements
 * GCC 7.1.0 or later 
 * Clang 4.0.0 or later

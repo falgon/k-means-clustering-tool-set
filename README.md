@@ -2,7 +2,7 @@
 
 The simple k-means clustering tool set.
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae48c146f92e4fb088116091727440ad)](https://www.codacy.com/app/falgon/jpezy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=falgon/jpezy&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7b9822a10da3448c8b6e792d6dd89104)](https://www.codacy.com/app/falgon/k-means-clustering-tool-set?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=falgon/k-means-clustering-tool-set&amp;utm_campaign=Badge_Grade)
 
 ## Requirements
 * GCC 7.1.0 or later 
